@@ -1,1 +1,2 @@
-# Mapty-app | Working with leaflet API
+# Mapty-app | Working with leaflet API 
+
